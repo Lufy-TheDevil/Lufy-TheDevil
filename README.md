@@ -4,7 +4,7 @@
 
 🌱 **Currently mastering .NET** | Always eager to learn and grow  
 
-🤝 **Open to collaborations** | .NET & Spring Boot enthusiasts, let's build something awesome!  
+🤝 **Open to collaborations** | .NET enthusiasts, let's build something awesome!  
 
 😄 **Pronouns**: He/Him  
 
